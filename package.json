@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.17.0",
+    "axios": "^1.6.0",
     "child_process": "^1.0.2",
     "hybrid-crypto-js": "^0.2.4",
     "moment": "^2.19.1",
